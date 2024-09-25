@@ -37,7 +37,7 @@ const app=express();
 //     cookie: {secure:true}
 //
 // }));
-
+// first code
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
